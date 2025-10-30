@@ -55,15 +55,15 @@
 
 ## 📁 Project Structure
 
-'''
+```bash
 P10_Point_Of_Sales_POS_Simulator_S-Quad/
-├── src/                 # Source code
-├── docs/               # Documentation
-├── tests/              # Test files
-├── .github/            # GitHub workflows and templates
-├── README.md          # This file
+├── src/                 
+├── docs/                
+├── tests/               
+├── .github/             
+├── README.md            
 └── ...
-'''
+
 
 ## 🛠 Development Guidelines
 
