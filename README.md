@@ -63,6 +63,7 @@ P10_Point_Of_Sales_POS_Simulator_S-Quad/
 ├── .github/             
 ├── README.md            
 └── ...
+```
 
 
 ## 🛠 Development Guidelines
