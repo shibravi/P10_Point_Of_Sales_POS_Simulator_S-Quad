@@ -56,13 +56,13 @@
 ## 📁 Project Structure
 
 
-PESU_RR_AIML_E_P09_Operation_theatre_management_in_very_big_hospitals_Grim-Reapers/
-├── src/                 # Source code
-├── docs/               # Documentation
-├── tests/              # Test files
-├── .github/            # GitHub workflows and templates
-├── README.md          # This file
-└── ...
+P10-Point_Of_Sales_POS_Simulator-SQuad/
+-├── src/                 # Source code
+-├── docs/               # Documentation
+-├── tests/              # Test files
+-├── .github/            # GitHub workflows and templates
+-├── README.md          # This file
+-└── ...
 
 
 ## 🛠 Development Guidelines
